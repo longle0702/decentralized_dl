@@ -1,0 +1,8 @@
+blockchain/
+data/
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+*.swp
+.DS_Store

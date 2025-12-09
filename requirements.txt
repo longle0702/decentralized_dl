@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+pytorch-lightning
+torchmetrics
+numpy
+pandas
+matplotlib
+seaborn
+tensorboard
+requests
+tqdm
