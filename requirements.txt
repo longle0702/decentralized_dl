@@ -10,3 +10,4 @@ seaborn
 tensorboard
 requests
 tqdm
+scikit-learn
